@@ -1,4 +1,4 @@
 # my-first-demo
 This is my First Repository
 <br>
-Aurthor - Sankhat Nayan
+Aurthor - Sankhat Nayan(College Student)
